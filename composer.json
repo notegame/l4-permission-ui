@@ -18,6 +18,5 @@
         "psr-0": {
             "Ngcode\\PermissionUi\\": "src/"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
