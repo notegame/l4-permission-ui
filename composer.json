@@ -1,10 +1,10 @@
 {
-    "name": "ngcode/permission-ui",
+    "name": "notegame/l4-permission-ui",
     "description": "",
     "authors": [
         {
-            "name": "",
-            "email": ""
+            "name": "note",
+            "email": "notegamer@hotmail.com"
         }
     ],
     "require": {
