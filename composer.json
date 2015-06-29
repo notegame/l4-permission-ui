@@ -1,6 +1,8 @@
 {
     "name": "notegame/l4-permission-ui",
     "description": "",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "note",
@@ -18,5 +20,6 @@
         "psr-0": {
             "Ngcode\\PermissionUi\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
